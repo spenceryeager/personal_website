@@ -6,9 +6,13 @@ body{
 }
 
 .navbar{
-    border-bottom: 1px solid rgb(61, 61, 61);
+    background-color: slategray;
 }
 
-.bg-primary{
-    color: orange;
+.card{
+    text-align: center;
+}
+
+.portrait{
+    border-radius:50%;
 }
