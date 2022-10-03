@@ -16,3 +16,11 @@ body{
 .portrait{
     border-radius:50%;
 }
+
+.mb-3-aboutme{
+    background-color:#708090;
+}
+
+.g-5-aboutme{
+    padding-top: 30px;
+}
