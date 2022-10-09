@@ -17,10 +17,21 @@ body{
     border-radius:50%;
 }
 
-.mb-3-aboutme{
-    background-color:#708090;
+.sq-portrait{
+    border-radius:1%;
+    border: 5px solid slategray;
 }
+
+.mb-3-aboutme{
+
+}
+
+
 
 .g-5-aboutme{
     padding-top: 30px;
+}
+
+.p-4-aboutme{
+    width:30px;
 }
